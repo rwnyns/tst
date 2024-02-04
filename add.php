@@ -1,5 +1,5 @@
 <?php
-    $servername = "rwnshop-server";
+    $servername = "rwnshop-server.mysql.database.azure.com";
     $username = "hesdpupvqv";
     $password = "IAA6RW3PL2BNI4YG$";
     $dbname = "rwnshop-database";
