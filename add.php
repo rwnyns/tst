@@ -1,11 +1,9 @@
 <?php
-$con = mysqli_init();
-mysqli_ssl_set($con,NULL,NULL, " ", NULL, NULL);
-mysqli_real_connect($conn, "cosmetics-server.mysql.database.azure.com", "kptijfuxon", "073M2PS7XS7KD2X7$", "cosmetics-database", 3306, MYSQLI_CLIENT_SSL);
-/* $servername = "cosmetics-server.mysql.database.azure.com";
+
+ $servername = "cosmetics-server.mysql.database.azure.com";
     $username = "kptijfuxon";
     $password = "FKM47YY44RU50X23$";
-    $dbname = "073M2PS7XS7KD2X7$";*/
+    $dbname = "073M2PS7XS7KD2X7$";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
