@@ -1,8 +1,8 @@
 <?php
-    $servername = "webserver.mysql.database.azure.com";
-    $username = "bekorxozed";
+    $servername = "cosmetics-server.mysql.database.azure.com";
+    $username = "kptijfuxon";
     $password = "FKM47YY44RU50X23$";
-    $dbname = "webdb";
+    $dbname = "073M2PS7XS7KD2X7$";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
