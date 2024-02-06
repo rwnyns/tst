@@ -1,5 +1,5 @@
 <?php
-    $servername = "webserver";
+    $servername = "webserver.mysql.database.azure.com";
     $username = "bekorxozed";
     $password = "FKM47YY44RU50X23$";
     $dbname = "webdb";
