@@ -2,8 +2,8 @@
 
  $servername = "cosmetics-server.mysql.database.azure.com";
     $username = "kptijfuxon";
-    $password = "FKM47YY44RU50X23$";
-    $dbname = "073M2PS7XS7KD2X7$";
+    $password = "073M2PS7XS7KD2X7$";
+    $dbname = "cosmetics-database";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
