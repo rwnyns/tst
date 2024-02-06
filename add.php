@@ -1,8 +1,8 @@
 <?php
-    $servername = "rwnshop-server.mysql.database.azure.com";
-    $username = "hesdpupvqv";
-    $password = "IAA6RW3PL2BNI4YG$";
-    $dbname = "rwnshop-database";
+    $servername = "webserver";
+    $username = "bekorxozed";
+    $password = "FKM47YY44RU50X23$";
+    $dbname = "webdb";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
