@@ -1,9 +1,9 @@
 <?php
 
- $servername = "cosmetics-server.mysql.database.azure.com";
-    $username = "kptijfuxon";
-    $password = "073M2PS7XS7KD2X7$";
-    $dbname = "cosmetics-database";
+ $servername = "restaurantshop-server.mysql.database.azure.com";
+    $username = "kwknbdvpiz";
+    $password = "Admin123456789.";
+    $dbname = "`restaurantshop-database`";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
